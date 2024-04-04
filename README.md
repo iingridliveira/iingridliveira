@@ -1,7 +1,7 @@
 ## Hello, Devs!!
 
-#Ola galerinha,
-Bom me chamo Ingrid sou do Ceára. Sou facinada em tecnologia, sempre acretitei que para nos trouxas(humanos) é a nossa magia. Atualmente focada no de desenvolvimento Web FullStack ❤
+##Ola galerinha,
+-Bom me chamo Ingrid sou do Ceára. Sou facinada em tecnologia, sempre acretitei que para nos trouxas(humanos) é a nossa magia. Atualmente focada no de desenvolvimento Web FullStack ❤
 
 <p align="center">
   <img src="https://images5.fanpop.com/image/photos/28500000/Hermione-Granger-GIF-harry-potter-28530736-500-243.gif" width="350">
