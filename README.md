@@ -1,6 +1,6 @@
 ## Hello, Devs!!
 
-Ola galerinha, bom, me chamo Ingrid sou do Ceára. Sou facinada em tecnologia,sempre acretitei que para nos trouxas(humanos) é a nossa magia. Atualmente focada no de desenvolvimento Web FullStack ❤
+Ola galerinha, bom, me chamo Ingrid sou do Ceára. Sou facinada em tecnologia, sempre acretitei que para nos trouxas(humanos) é a nossa magia. Atualmente focada no de desenvolvimento Web FullStack ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
