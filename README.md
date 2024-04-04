@@ -1,6 +1,6 @@
 ## Hello, Devs!!
 
-##Ola galerinha,
+## Ola galerinha
 -Bom me chamo Ingrid sou do Ceára. Sou facinada em tecnologia, sempre acretitei que para nos trouxas(humanos) é a nossa magia. Atualmente focada no de desenvolvimento Web FullStack ❤
 
 <p align="center">
