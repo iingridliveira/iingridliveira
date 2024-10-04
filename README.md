@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=iiingridliveira&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 ## Olá, galerinha!
 <img src="https://github.com/iingridliveira/Portf-lio/blob/main/img/eugatoblack.png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
