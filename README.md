@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 ## Olá, galerinha!
 <img src="https://github.com/iingridliveira/Portf-lio/blob/main/img/eugatoblack.png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -37,7 +38,7 @@
 
 
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tecnologias
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -50,11 +51,26 @@
 
 
 
-##
-<p align="center">
-<a href="https://github.com/iingridliveira">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iingridliveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iingridliveira&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
+<img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iingridliveira&layout=compact&langs_count=8&theme=algolia" alt="ilustração do status do github">
+
+💻**Utilidades** 
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-800080?style=flat&logo=insomnia&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/-Postman-800080?style=flat&logo=postman&logoColor=FFFFFF)
+
+⚙️ **DevOps** 
+
+![Git](https://img.shields.io/badge/-Git-800080?style=flat&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-800080?style=flat&logo=github&logoColor=FFFFFF)
+
+🛠️**Ferramentas de desenvolvimento** 
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-800080?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-800080?style=flat&logo=intellij-idea&logoColor=FFFFFF)
+![Trello](https://img.shields.io/badge/-Trello-800080?style=flat&logo=trello&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/-Figma-800080?style=flat&logo=figma&logoColor=FFFFFF)
+
+
+
 
