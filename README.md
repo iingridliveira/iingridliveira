@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=iiingridliveira&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<img src="https://i.pinimg.com/originals/38/5d/e8/385de872318b3a66a02d5815792204f4.gif">
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" width="900px" >
 
 ## Olá, galerinha!
 <img src="https://github.com/iingridliveira/Portf-lio/blob/main/img/eugatoblack.png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
