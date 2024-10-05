@@ -1,5 +1,6 @@
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" width="900px" >
 
+
 ## Olá, galerinha!
 <img src="https://github.com/iingridliveira/Portf-lio/blob/main/img/eugatoblack.png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -22,9 +23,7 @@
 <p align="left">
 
 </p>
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+
 
 <p  align="left">
   <a href="#" title="Gmail">
@@ -51,8 +50,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
 
-
-
 <img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iingridliveira&layout=compact&langs_count=8&theme=algolia" alt="ilustração do status do github">
 
 💻**Utilidades** 
@@ -72,6 +69,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-800080?style=flat&logo=trello&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/-Figma-800080?style=flat&logo=figma&logoColor=FFFFFF)
 
-
+<img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0274.gif" border="0" alt="linha-imagem-animada-0290" width="900px" >
 
 
