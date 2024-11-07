@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
- - 🎓 Estudando Análieses e Desenvolvimento de Sistemas  na Universidade de Fortaleza-UNIFOR.
+ - 🎓 Estudando Análise e Desenvolvimento de Sistemas  na Universidade de Fortaleza-UNIFOR.
 </p>
 <p align="left">
 - 💼 Em busca da primeira oportunidade na área.
