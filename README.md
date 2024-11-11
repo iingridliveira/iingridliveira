@@ -1,4 +1,3 @@
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" width="900px" >
 
 
 ## Olá, galerinha!
