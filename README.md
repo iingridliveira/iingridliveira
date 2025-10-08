@@ -5,7 +5,7 @@
 
 <p align="left"> 
    <strong>Dev Web Full-Stack</strong>.<br>
- Bom me chamo Ingrid sou do Ceára. Sou facinada em tecnologia, sempre acretitei que para nos trouxas(humanos) é a nossa magia. Atualmente focada no  desenvolvimento Web FullStack ❤
+Sou uma desenvolvedora em formação com foco em Desenvolvimento Web Full Stack, atualmente cursando Análise e Desenvolvimento de Sistemas (UNIFOR). Minha paixão é construir soluções web completas, e possuo conhecimentos sólidos nas seguintes tecnologias: HTML5, CSS3, JavaScript, TypeScript, SQL, MySQL, Node.js e React.js. Utilizo Git e GitHub para versionamento de código, garantindo a organização e colaboração em projetos. Busco uma oportunidade de atuar como Desenvolvedora Full Stack para aplicar minhas competências e crescer em um ambiente dinâmico.
 </p>
 
 <p align="left">
